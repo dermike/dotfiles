@@ -86,7 +86,9 @@
 /.netrc
 /.njxnqxgn
 /.npm
+/.node-gyp
 /.oh-my-zsh
+/*.padl
 /.parallel
 /.pip
 /.pip-accel
